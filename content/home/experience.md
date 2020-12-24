@@ -22,23 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Student Researcher
+    company: Instituto de Medicina Molecular João Lobo Antunes
+    company_url: 'https://imm.medicina.ulisboa.pt'
+    location: Lisbon, Portugal
+    date_start: '2020-08-18'
+    date_end: '2020-08-21'
+    description: Student researcher at the Institute for Molecular Medicine (iMM) studying the influence of R-loops in mRNA splicing and the correction of splicing defects at the Sérgio de Almeida Laboratory.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
+  - title: Member of the Executive Board
+    company: Associação dos Estudantes da Faculdade de Ciências de Lisboa
+    company_url: 'http://aefcl.ciencias.ulisboa.pt'
+    location: Lisbon, Portugal
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
