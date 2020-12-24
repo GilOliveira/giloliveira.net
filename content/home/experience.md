@@ -10,7 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
----
+item:
   - title: 'CEO'
     company: 'GenCoin'
     company_url: ''
@@ -31,3 +31,4 @@ design:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: 'Taught electronic engineering and researched semiconductor physics.'
+---
