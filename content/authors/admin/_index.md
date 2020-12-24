@@ -1,6 +1,7 @@
 ---
 title: Gil Oliveira
 role: MSc student in Biotechnology
+avatar_filename: objecto.jfif
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
