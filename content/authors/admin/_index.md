@@ -28,7 +28,7 @@ education:
     - course: Minor in Informatics
       institution: University of Lisbon
       year: 2019
-email: ""
+email: accounts@giloliveira.net
 superuser: true
 highlight_name: false
 ---
