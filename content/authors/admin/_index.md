@@ -28,15 +28,15 @@ organizations:
     url: https://fct.unl.pt/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Biotechnology (ongoing)
+      institution: NOVA University Lisbon
+      year: ""
+    - course: BSc in Biology (Molecular Biology and Genetics)
+      institution: University of Lisbon
+      year: 2019
+    - course: Minor in Informatics
+      institution: University of Lisbon
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
