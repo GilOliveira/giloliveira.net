@@ -34,6 +34,7 @@ experience:
   - title: Member of the Executive Board
     company: Associação dos Estudantes da Faculdade de Ciências de Lisboa
     company_url: 'http://aefcl.ciencias.ulisboa.pt'
+    company_logo: 'aefcl.jpg'
     location: Lisbon, Portugal
     date_start: '2016-01-01'
     date_end: '2016-12-31'
