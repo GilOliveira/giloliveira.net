@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: 'github.GilOliveira.experienceCustom'
 
 # This file represents a page section.
 headless: true
@@ -25,11 +25,11 @@ experience:
   - title: Student Researcher
     company: Instituto de Medicina Molecular João Lobo Antunes
     company_url: 'https://imm.medicina.ulisboa.pt'
+    company_logo: 'imm.png'
     location: Lisbon, Portugal
     date_start: '2020-08-18'
     date_end: '2020-08-21'
     description: Student researcher at the Institute for Molecular Medicine (iMM) studying the influence of R-loops in mRNA splicing and the correction of splicing defects at the Sérgio de Almeida Laboratory.
-    {{< figure library="true" src="imm.png" title="iMM logo" >}}
         
   - title: Member of the Executive Board
     company: Associação dos Estudantes da Faculdade de Ciências de Lisboa
