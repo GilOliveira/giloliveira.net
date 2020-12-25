@@ -29,7 +29,7 @@ experience:
     date_start: '2020-08-18'
     date_end: '2020-08-21'
     description: Student researcher at the Institute for Molecular Medicine (iMM) studying the influence of R-loops in mRNA splicing and the correction of splicing defects at the Sérgio de Almeida Laboratory.
-    company_logo: "imm.png"
+    {{< figure library="true" src="imm.png" title="iMM logo" >}}
         
   - title: Member of the Executive Board
     company: Associação dos Estudantes da Faculdade de Ciências de Lisboa
