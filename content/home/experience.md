@@ -1,5 +1,5 @@
 ---
-# An instance of the Experience widget.
+# An instance of the experienceCustom widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: 'github.GilOliveira.experienceCustom'
 
