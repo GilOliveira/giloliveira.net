@@ -2,12 +2,11 @@
 title: Gil Oliveira
 role: MSc student in Biotechnology
 avatar_filename: objecto.jfif
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Molecular Biologist. MSc student in Biotechnology at FCT NOVA.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Biotechnology
+  - Epigenetics and mRNA processing
+  - Bioinformatics & Computational Biology
 social:
   - icon: envelope
     icon_pack: fas
