@@ -6,6 +6,6 @@ google_fonts = "family=Lexend+Deca&family=Montserrat:wght@400;700&family=Roboto+
 
 # Font families
 heading_font = "Lexend Deca"
-body_font = "Roboto"
+body_font = "Lexend Deca"
 nav_font = "Lexend Deca"
 mono_font = "Roboto Mono"
