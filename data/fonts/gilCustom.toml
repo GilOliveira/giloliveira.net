@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Gil Custom"
+
+# Optional Google font URL
+google_fonts = "Lexend+Deca|Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Lexend Deca"
+body_font = "Roboto"
+nav_font = "Lexend Deca"
+mono_font = "Roboto Mono"
