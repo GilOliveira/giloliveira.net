@@ -18,11 +18,6 @@
   url = "#training"
   weight = 30
 
-[[main]]
-  name = "Contact"
-  url = "mailto:hello@giloliveira.net"
-  weight = 40
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 # [[main]]
