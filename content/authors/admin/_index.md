@@ -46,4 +46,4 @@ highlight_name: false
 ---
 Everyday I try to unravel a bit more of the complexity of life and try to figure out how I can take advantage of that knowledge. I enjoy making my own tools and I work towards empowering others to make their own discoveries.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
