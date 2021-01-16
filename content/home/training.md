@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: "https://www.codecademy.com/profiles/gilpoiares/certificates/497d64b859e76f307b65270d130a4603"
+  date_end: ""
+  date_start: "2021-01-01"
+  description: "A 20 hour course on fundamental R programming concepts, data structures, data visualisations, statistics and hypothesis testing."
+  organization: "Codecademy"
+  organization_url: "https://www.codecademy.com/"
+  title: "Learn R Course"
+  url: "https://www.codecademy.com/learn/learn-r"
 - certificate_url: ""
   date_end: ""
   date_start: "2020-02-01"
