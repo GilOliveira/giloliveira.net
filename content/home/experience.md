@@ -41,21 +41,21 @@ experience:
     description: Member of the Pedagogics and Education Policy Department at the FCUL students’ union. Organized the college’s job fair in 2018 and 2019 as well as various training workshops. Collaborated in various national educational policy motions. Represented the college’s students in local and national forums. Managed the departmental activities and budget (as coordinator).
 
   - title: Trainee
-  company: Centre for Chemistry and Biochemistry - Ciências ULisboa
-  company_url: 'http://cqb.ciencias.ulisboa.pt'
-  company_logo: 'fcul.jpg'
-  location: Lisbon, Portugal
-  date_start: '2014-09-01'
-  date_end: '2016-07-01'
-  description: Research project for a high school subject which involved studying recombinant endolysins biosynthesis and study. In collaboration with the Enzymology group of the Centre for Chemistry and Biochemistry.
+    company: Centre for Chemistry and Biochemistry - Ciências ULisboa
+    company_url: 'http://cqb.ciencias.ulisboa.pt'
+    company_logo: 'fcul.jpg'
+    location: Lisbon, Portugal
+    date_start: '2014-09-01'
+    date_end: '2016-07-01'
+    description: Research project for a high school subject which involved studying recombinant endolysins biosynthesis and study. In collaboration with the Enzymology group of the Centre for Chemistry and Biochemistry.
 
   - title: Trainee
-  company: Institute for Bioengineering and Biosciences - Técnico Lisboa
-  company_url: 'https://ibb.tecnico.ulisboa.pt'
-  company_logo: 'ist.png'
-  location: Porto Salvo, Portugal
-  date_start: '2014-06-01'
-  date_end: '2014-06-01'
-  description: Short term internship as part of a high school protocol. Worked in the Stem Cell Bioengineering and Regenerative Medicine Laboratory learning about laboratory procedures such as human stem cell culture and fluorescence microscopy analysis.
+    company: Institute for Bioengineering and Biosciences - Técnico Lisboa
+    company_url: 'https://ibb.tecnico.ulisboa.pt'
+    company_logo: 'ist.png'
+    location: Porto Salvo, Portugal
+    date_start: '2014-06-01'
+    date_end: '2014-06-01'
+    description: Short term internship as part of a high school protocol. Worked in the Stem Cell Bioengineering and Regenerative Medicine Laboratory learning about laboratory procedures such as human stem cell culture and fluorescence microscopy analysis.
   
 ---
