@@ -28,7 +28,7 @@ experience:
     company_logo: 'imm.png'
     location: Lisbon, Portugal
     date_start: '2020-08-18'
-    date_end: '2020-08-21'
+    date_end: '2020-12-21'
     description: Student researcher at the Institute for Molecular Medicine (iMM) studying the influence of R-loops in mRNA splicing and the correction of splicing defects at the Sérgio de Almeida Laboratory.
         
   - title: Member of the Executive Board
@@ -46,7 +46,7 @@ experience:
     company_logo: 'ist.png'
     location: Porto Salvo, Portugal
     date_start: '2014-06-01'
-    date_end: ''
+    date_end: '2014-06-01'
     description: Short term internship as part of a high school protocol. Worked in the Stem Cell Bioengineering and Regenerative Medicine Laboratory learning about laboratory procedures such as human stem cell culture and fluorescence microscopy analysis.
 
   - title: Trainee
