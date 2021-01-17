@@ -32,7 +32,7 @@ experience:
     description: Student researcher at the Institute for Molecular Medicine (iMM) studying the influence of R-loops in mRNA splicing and the correction of splicing defects at the Sérgio de Almeida Laboratory.
         
   - title: Member of the Executive Board
-    company: Associação dos Estudantes da Faculdade de Ciências de Lisboa
+    company: AEFCL (Ciências ULisboa students' union)
     company_url: 'http://aefcl.ciencias.ulisboa.pt'
     company_logo: 'aefcl.jpg'
     location: Lisbon, Portugal
