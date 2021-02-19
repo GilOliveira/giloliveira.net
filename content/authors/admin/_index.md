@@ -25,6 +25,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Gil_Oliveira4
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/AAE-9440-2021/
   - icon_pack: fab
     link: https://www.github.com/GilOliveira
     icon: github
