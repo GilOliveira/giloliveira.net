@@ -21,7 +21,17 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+  - title: Student Researcher
+    company: NOVA School of Science and Technology
+    company_url: 'https://fct.unl.pt/en/'
+    company_logo: 'nova-st.png'
+    location: Lisbon, Portugal
+    date_start: '2021-01-01'
+    date_end: ''
+    description: Student researcher at the Department of Chemistry of the NOVA School of Science and Technology in the Systems Biology and Engineering Group. Conducting reseearch in hybrid semiparametric modelling of human cell culture growth for vaccine production.
+
   - title: Student Researcher
     company: Instituto de Medicina Molecular João Lobo Antunes
     company_url: 'https://imm.medicina.ulisboa.pt'
