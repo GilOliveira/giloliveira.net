@@ -27,7 +27,7 @@ experience:
     company: NOVA School of Science and Technology
     company_url: 'https://fct.unl.pt/en/'
     company_logo: 'nova-st.png'
-    location: Lisbon, Portugal
+    location: Caparica, Portugal
     date_start: '2021-01-01'
     date_end: ''
     description: Student researcher at the Department of Chemistry of the NOVA School of Science and Technology in the Systems Biology and Engineering Group. Conducting reseearch in hybrid semiparametric modelling of human cell culture growth for vaccine production.
