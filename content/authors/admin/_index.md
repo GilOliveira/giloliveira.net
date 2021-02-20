@@ -6,6 +6,7 @@ interests:
   - Medical Biotechnology
   - Epigenetics and mRNA processing
   - Bioinformatics & Computational Biology
+  - ML-based hybrid genome-scale metabolic modelling
 social:
   - icon: envelope
     icon_pack: fas
