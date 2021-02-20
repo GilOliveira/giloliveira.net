@@ -22,7 +22,7 @@ The workflow of my website basically goes like this:
 
 ## Are you paying anything for this?
 
-Basically nothing... most of the software I am using is open-source and the services I use are all on their free tiers. The only thing I am actually paying money for are the domain names.
+Basically nothing... most of the software I am using is open-source and the services I use are all on their free tiers. The only thing I am actually paying for are the domain names.
 
 ## Am I being tracked when browsing your website?
 
