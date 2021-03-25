@@ -26,7 +26,7 @@ experience:
   - title: Student Researcher
     company: NOVA School of Science and Technology
     company_url: 'https://fct.unl.pt/en/'
-    company_logo: 'nova-st.png'
+    company_logo: 'nova-st.jpg'
     location: Caparica, Portugal
     date_start: '2021-01-01'
     date_end: ''
