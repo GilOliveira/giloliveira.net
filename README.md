@@ -26,10 +26,7 @@ Basically nothing... most of the software I am using is open-source and the serv
 
 ## Am I being tracked when browsing your website?
 
-Well......... the short answer is... yes, but it can be bypassed.
-
-The website uses Google Analytics in order for me to have an idea of who visits the website. I am not the biggest fan of these kinds of services, but, unfortunately, the Wowchemy builder only natively supports Google Analytics and Microsoft Clarity. I went for Google's option because I am more familiar with it, but may consider switching to Microsoft in the future. I am also considering researching if there's a way to use a more privacy-friendly service.
+Not by me. I have disabled analytics and don't actively track visitors.
 
 Netlify *may* also be involved in tracking purely because I am relying on their CDN but I didn't research into that.
 
-In the meantime, you can use a content blocker to block Google Analytics which probably will take care of any tracking concerns.
