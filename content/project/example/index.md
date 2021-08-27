@@ -1,8 +1,11 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+draft: true
+title: SilicoMedia
+summary: In silico culture or feed media design based on prior metabolic knowledge
 tags:
 - Deep Learning
+- Hybrid Modelling
+- Biopharma
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

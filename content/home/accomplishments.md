@@ -36,32 +36,32 @@ item:
   date_start: "2021-01-01"
   description: Probably the biggest entrepeneurship course in Europe.
   organization: NovaTechShip
-  organization_url: https://novatechship.com/empreendedorismo.html
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: ""
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  organization_url: https://novatechship.com/
+  title: Entrepeneurship by NOVATechShip
+  url: https://novatechship.com/empreendedorismo.html
+- certificate_url: "certificates/4ways.pdf"
+  date_end: ""
+  date_start: "2019-02-01"
   description: "Series of 4 workshops: Curiosity, Communication, Conflict management & Emotional Intelligence"
   organization: Unlimited Future
   organization_url: https://www.unlimited.future.pt
   title: '4 Ways 4 the Future'
   url: "https://www.unlimited.future.pt/4ways4thefuture"
-- certificate_url: ""
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: "/certificates/elb18f.pdf"
+  date_end: ""
+  date_start: "2020-01-01"
   description: "Entry level course broadly based around a series of exercises in which a combination of simple analytical tools and reference to publicly available databases is applied to the investigation of a single human gene."
   organization: Calouste Gulbenkian Foundation
   organization_url: https://gulbenkian.pt/ciencia/
   title: 'Entry Level Bioinformatics Course'
   url: "http://gtpb.igc.gulbenkian.pt/bicourses/2018/ELB18F/index.html"
-- certificate_url: ""
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: "/certificates/pubspeaking.pdf"
+  date_end: ""
+  date_start: "2017-05-21"
   description: ""
   organization: Speak and Lead
   organization_url: https://speakandlead.pt
-  title: 'Object-Oriented Programming in R'
+  title: 'Public Speaking Course'
   url: "https://speakandlead.pt/curso-public-speaking/"
 
 design:

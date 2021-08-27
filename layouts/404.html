@@ -1,0 +1,22 @@
+{{- define "main" -}}
+
+<div class="universal-wrapper pt-3">
+    <div class="alert alert-danger" role="alert">
+        HTTP error: 404 Not Found.
+    </div>
+    <div class="container" id="mainContainer">
+    <h1>The page you requested could not be found!</h1>
+    <h2>Sorry about that.</h2>
+    <img src="https://i.makeagif.com/media/8-15-2016/CmazeK.gif" alt="An animated GIF of a man destroying a computer">
+    <p>Here's what may have happened:</p>
+    <ul>
+        <li>You followed an old or broken link.</li>
+        <li>You mistyped the URL.</li>
+        <li>I did something wrong. (let's face it, this is the most likely scenario)</li>
+        <li>You wanted to see what the 404 page looks like. (sorry to disappoint)</li>
+    </ul>
+    <a href="/"><button type="button" class="btn btn-primary">Let's go home</button></a>
+    </div>
+</div>
+
+{{- end -}}
