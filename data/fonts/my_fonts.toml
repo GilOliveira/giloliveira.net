@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_fonts"
+
+# Optional Google font URL
+google_fonts = "family=Lexend+Deca&family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:ital@0;1"
+
+# Font families
+heading_font = "Lexend Deca"
+body_font = "Lexend Deca"
+nav_font = "Lexend Deca"
+mono_font = "Roboto Mono"
