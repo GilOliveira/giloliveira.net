@@ -9,6 +9,7 @@ This is the source code for my personal website. It is not the actual HTML/CSS t
 - [**Markdown**](https://daringfireball.net/projects/markdown/) (.md files) for the website content.
 - [**Wowchemy**](https://wowchemy.com) for the theme (Academic) and the website builder system.
 - [**Hugo**](https://gohugo.io) for the static page generation.
+- [**GitLab**](https://gitlab.com) for compiling the code and hosting.
 
 ## How do you build the website?
 
