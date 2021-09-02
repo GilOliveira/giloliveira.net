@@ -58,7 +58,7 @@ experience:
     description: Worked on an app that gathers information of the FCUL campus' fauna and flora. Responsible for mapping and gathering information regarding the flora.
 
   - title: Trainee
-    company: Institute for Bioengineering and Biosciences - Técnico Lisboa
+    company: Instituto Superior Técnico - University of Lisbon
     company_url: 'https://ibb.tecnico.ulisboa.pt'
     company_logo: ist
     location: Porto Salvo, Portugal
@@ -67,8 +67,8 @@ experience:
     description: Short term internship as part of a high school protocol. Worked in the Stem Cell Bioengineering and Regenerative Medicine Laboratory learning about laboratory procedures such as human stem cell culture and fluorescence microscopy analysis.
 
   - title: Trainee
-    company: Centre for Chemistry and Biochemistry - Ciências ULisboa
-    company_url: 'http://cqb.ciencias.ulisboa.pt'
+    company: Faculty of Sciences of the University of Lisbon
+    company_url: 'https://ciencias.ulisboa.pt/en'
     company_logo: fcul
     location: Lisbon, Portugal
     date_start: '2014-01-01'
