@@ -64,6 +64,10 @@ social:
 - icon_pack: ai
   link: https://publons.com/researcher/AAE-9440-2021
   icon: researcherid
+- icon_pack: ai
+  link: https://www.zotero.org/giloliveira
+  icon: zotero
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
