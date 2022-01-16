@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.codecademy.com/profiles/gilpoiares/certificates/497d64b859e76f307b65270d130a4603
   date_end: ""
   date_start: "2021-01-01"
-  description: "20 h online course about the R programming languages and its usage in data science."
+  description: "Curso de 20 h acerca da linguagem de programação R e o seu uso na ciência de dados"
   organization: Codecademy
   organization_url: https://www.codecademy.org
   title: Learn R
@@ -34,7 +34,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-01-01"
-  description: Probably the biggest entrepeneurship course in Europe.
+  description: Provavelmente o maior evento de empreendedorismo na Europa.
   organization: NovaTechShip
   organization_url: https://novatechship.com/
   title: Entrepeneurship by NOVATechShip
@@ -42,7 +42,7 @@ item:
 - certificate_url: "certificates/4ways.pdf"
   date_end: ""
   date_start: "2019-02-01"
-  description: "Series of 4 workshops: Curiosity, Communication, Conflict management & Emotional Intelligence"
+  description: "Série de 4 workshops: Curiosidade, Comunicação, Gestão de conflitos & Inteligência emocional"
   organization: Unlimited Future
   organization_url: https://www.unlimited.future.pt
   title: '4 Ways 4 the Future'
@@ -50,7 +50,7 @@ item:
 - certificate_url: "/certificates/elb18f.pdf"
   date_end: ""
   date_start: "2020-01-01"
-  description: "Entry level course broadly based around a series of exercises in which a combination of simple analytical tools and reference to publicly available databases is applied to the investigation of a single human gene."
+  description: "Curso de introdução a ferramentas analíticas na área da genómica."
   organization: Calouste Gulbenkian Foundation
   organization_url: https://gulbenkian.pt/ciencia/
   title: 'Entry Level Bioinformatics Course'

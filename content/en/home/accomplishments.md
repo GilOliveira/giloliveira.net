@@ -50,7 +50,7 @@ item:
 - certificate_url: "/certificates/elb18f.pdf"
   date_end: ""
   date_start: "2020-01-01"
-  description: "Entry level course broadly based around a series of exercises in which a combination of simple analytical tools and reference to publicly available databases is applied to the investigation of a single human gene."
+  description: "Entry level course broadly based around a series of exercises in which a combination of simple analytical tools and reference to publicly available databases."
   organization: Calouste Gulbenkian Foundation
   organization_url: https://gulbenkian.pt/ciencia/
   title: 'Entry Level Bioinformatics Course'

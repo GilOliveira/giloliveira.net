@@ -22,16 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Student Researcher
+  - title: Bolseiro de Investigação
     company: NOVA School of Science & Technology
     company_url: 'https://fct.unl.pt/en/'
     company_logo: nova-st
     location: Caparica, Portugal
     date_start: '2021-01-01'
     date_end: ''
-    description: Student researcher at the Department of Chemistry of the NOVA School of Science & Technology in the Systems Biology and Engineering Group. Conducting reseearch in hybrid semiparametric modelling of human cell culture growth for vaccine production.
+    description: Bolseiro de investigação no Departamento de Investigação da NOVA School of Science and Technology | FCT NOVA, no grupo de Engenharia e Biologia de Sistemas. Realiza investigação em modelação híbrida semiparamétrica do crescimento de culturas de células humanas para produção de vacinas.
         
-  - title: Student Researcher
+  - title: Investigador de Mestrado
     company: Instituto de Medicina Molecular João Lobo Antunes
     company_url: 'https://imm.medicina.ulisboa.pt'
     company_logo: imm

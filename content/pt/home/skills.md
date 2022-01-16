@@ -16,22 +16,25 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, MATLAB, R, Javascript, HTML, CSS, MySQL, Markdown, LaTeX, Bash/zsh
+- name: Linguages de computação
+  description: Python, MATLAB, R, Javascript, HTML, CSS, MySQL, Markdown, LaTeX, Bash/zsh
   icon: file-code
-  icon_pack: far
-  name: Computer Languages
-- description: Hybrid modelling, flux analysis, genome-scale modelling, constraint-based modelling, dynamic modellin
+  icon_pack: far 
+- name: Biologia de Sistemas
+  description: Modelação híbrida, análise de fluxos metabólicos, modelação à escala genómica, modelação à base de constrições, modelação dinâmica 
   icon: project-diagram
   icon_pack: fas
-  name: Systems Biology
-- description: icrobiological culture, Animal cell culture (HEK293, U2OS), Molecular cloning, PCR, DNA/RNA extraction, Electrophoresis, qPCR (beginner), BSL-2 laboratory practices, Bioinformatics tools
+  
+- name: Molecular Biology
+  description: Culura microbiológica, cultura de células animais (HEK293, U2OS), clonagem molecular, PCR, extração de DNA e RNA, eletroforese, qPCR (principiante), técnicas de laboratório em BSL-2, ferramentas de bioinformática
   icon: dna
   icon_pack: fas
-  name: Molecular Biology
-- description: Object-oriented programming, Artificial Intelligence, Deep Learning, Artificial Neural Networks, Networking, Web development, Git, Graphics software, *nix command line, Windows, macOS, GNU/Linux
+  
+- name: Computing
+  description: Programação orientada a objetos, inteligência artificial, aprendizagem profunda, redes neuronais artificiais, redes de computadores, desenvolvimento web, git, software gráfico, terminal *nix, Windows, macOS, GNU/Linux
   icon: desktop
   icon_pack: fas
-  name: Computing
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
