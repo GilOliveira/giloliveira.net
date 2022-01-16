@@ -6,15 +6,15 @@ title: Gil Oliveira
 superuser: true
 
 # Role/position/tagline
-role: MSc Student Researcher in Systems Bioengineering
+role: Bolseiro de Investigação em Bioengenharia de Sistemas
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: NOVA School of Science and Technology
-  url: https://fct.unl.pt/en/
+- name: NOVA School of Science and Technology | FCT NOVA
+  url: https://fct.unl.pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Molecular Biologist. MSc student in Biotechnology.
+bio: Biólogo Molecular. Estudante de mestrado em Biotecnologia.
 
 # Interests to show in About widget
 interests:
@@ -25,14 +25,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Biotechnology (ongoing)
-    institution: NOVA University Lisbon
+  - course: Mestrado em Biotechnologia (ongoing)
+    institution: Universidade NOVA de Lisboa
     year: ""
-  - course: BSc in Biology (Molecular Biology and Genetics)
-    institution: University of Lisbon
+  - course: Licenciatura em Biologia (Biologia Molecular e Genética)
+    institution: Universidade de Lisboa
     year: 2019
-  - course: Minor in Informatics
-    institution: University of Lisbon
+  - course: Minor em Informática
+    institution: Universidade de Lisboa
     year: 2019
 
 # Social/Academic Networking
@@ -83,9 +83,9 @@ social:
 email: "gravatar@r.gil.is"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Everyday I try to unravel a bit more of the complexity of life and try to figure out how I can take advantage of that knowledge. I enjoy making my own tools and I work towards empowering others to make their own 
+Sou um Biólogo, atualmente em Lisboa, Portugal, a trabalhar como bolseiro de investigação na NOVA School of Science and Technology | FCT NOVA no grupo de Biologia e Engenharia de Sistemas (SBE Group). Atualmente, faço parte de uma equipa multidisciplinar, em colaboração com uma empresa biofarmacêutica, a realizar investigação com vista ao desenvolvimento de uma técnica de modelação híbrida de fábricas celulares humanas de forma a desenvolver uma metodologia nova e baseada em inteligência artificial para melhoramento de produção de vacinas.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
