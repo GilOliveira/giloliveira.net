@@ -58,15 +58,15 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gil_Oliveira4
-- icon_pack: fab
+- icon: gitlab
+  icon_pack: fab
   link: https://www.gitlab.com/GilOliveira
-  icon: gitlab
-- icon_pack: ai
+- icon: researcherid
+  icon_pack: ai
   link: https://publons.com/researcher/AAE-9440-2021
-  icon: researcherid
-- icon_pack: ai
-  link: https://www.zotero.org/giloliveira
-  icon: zotero
+- icon: zotero
+  icon_pack: ai
+  link: https://www.zotero.org/giloliveira 
 
 
 # Link to a PDF of your resume/CV.
