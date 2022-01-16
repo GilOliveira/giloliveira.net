@@ -61,6 +61,9 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://www.gitlab.com/GilOliveira
+- icon: github
+  icon_pack: fab
+  link: https://www.github.com/GilOliveira
 - icon: researcherid
   icon_pack: ai
   link: https://publons.com/researcher/AAE-9440-2021
