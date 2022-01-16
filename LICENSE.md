@@ -1,6 +1,6 @@
 MIT License
 
-Copyright © 2021 Gil Oliveira
+Copyright © 2021-2022 Gil Oliveira
 Copyright (c) 2016-present George Cushen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
