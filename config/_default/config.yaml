@@ -72,9 +72,8 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
-
 params:
   plausible:
-    enable: true
-    domain: "giloliveira.net"
-    selfhosted_domain: "analytics.gil.is"
+    - enable: true
+    - domain: "giloliveira.net"
+    - selfhosted_domain: "analytics.gil.is"
