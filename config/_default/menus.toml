@@ -15,12 +15,12 @@ weight = 20
 
 [[main]]
 name = "Experience"
-url = "#accomplishments"
+url = "#experience"
 weight = 30
 
 [[main]]
 name = "Training"
-url = "#training"
+url = "#accomplishments"
 weight = 40
 
 [[main]]
