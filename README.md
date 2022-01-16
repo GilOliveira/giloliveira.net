@@ -26,5 +26,5 @@ Basically nothing... most of the software I am using is open-source and the serv
 
 ## Am I being tracked when browsing your website?
 
-This website uses annonymous privacy-respecting analytics powered by [Plausible Analytics](https://plausible.io)
+This website uses annonymous privacy-respecting analytics powered by [Plausible Analytics](https://plausible.io).
 
