@@ -61,6 +61,9 @@ social:
 - icon_pack: fab
   link: https://www.gitlab.com/GilOliveira
   icon: gitlab
+- icon_pack: ai
+  link: https://publons.com/researcher/AAE-9440-2021
+  icon: researcherid
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
