@@ -72,7 +72,7 @@ social:
   link: https://www.zotero.org/giloliveira 
 - icon: mastodon
   icon_pack: fab
-  icon: https://www.fediscience.org/@gil
+  icon: https://scholar.social/@gil
 
 
 # Link to a PDF of your resume/CV.
