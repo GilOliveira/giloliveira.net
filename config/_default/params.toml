@@ -44,6 +44,12 @@ name = "Twitter"
 link = "https://twitter.com/gildoesbiology"
 
 [[contact_links]]
+icon = "mastodon"
+icon_pack = "fab"
+name = "Mastodon"
+link = "https://scholar.social/@gil"
+
+[[contact_links]]
 icon = "comment-dots"
 icon_pack = "far"
 name = "Matrix"

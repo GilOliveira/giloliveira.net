@@ -70,9 +70,6 @@ social:
 - icon: zotero
   icon_pack: ai
   link: https://www.zotero.org/giloliveira 
-- icon: mastodon
-  icon_pack: fab
-  link: https://scholar.social/@gil
 
 
 # Link to a PDF of your resume/CV.

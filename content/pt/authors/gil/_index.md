@@ -69,10 +69,7 @@ social:
   link: https://publons.com/researcher/AAE-9440-2021
 - icon: zotero
   icon_pack: ai
-  link: https://www.zotero.org/giloliveira 
-- icon: mastodon
-  icon_pack: fab
-  link: https://scholar.social/@gil
+  link: https://www.zotero.org/giloliveira
 
 
 # Link to a PDF of your resume/CV.
