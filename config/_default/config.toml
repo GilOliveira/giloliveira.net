@@ -27,9 +27,6 @@ path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5"
 [[module.imports]]
 path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5"
 
-[[module.imports]]
-path = "github.com/divinerites/plausible-hugo"
-
 [permalinks]
 event = "/talk/:slug/"
 tags = "/tag/:slug/"
@@ -76,9 +73,4 @@ toLower = true
 
 [security.funcs]
 getenv = [ "^HUGO_", "^WC_" ]
-
-[params.plausible]
-enable = true
-domain = "giloliveira.net"
-selfhosted_domain = "analytics.gil.is"
 

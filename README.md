@@ -13,12 +13,7 @@ This is the source code for my personal website. It is not the actual HTML/CSS t
 
 ## How do you build the website?
 
-The workflow of my website basically goes like this:
-
-1. I edit the website content which is written in Markdown;
-2. Commit the changes to this GitHub repo;
-3. The commit triggers the Hugo website building script on Netlify;
-4. The generated static website is deployed to the Netlify CDN.
+This website relies on [GitLab CI/CD](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) and [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html) for generation, deployment and hosting.
 
 ## Are you paying anything for this?
 
