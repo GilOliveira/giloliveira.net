@@ -6,7 +6,7 @@ title: Gil Oliveira
 superuser: true
 
 # Role/position/tagline
-role: MSc Student Researcher in Systems Bioengineering
+role: Research Fellow in Systems Bioengineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
