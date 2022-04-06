@@ -35,7 +35,7 @@ In order to provide you with service, we rely on third-party providers. They may
 privacy policies. The providers we rely on are as follows:
 
 - Google (Google Ireland Limited and/or Google LLC), thorough their Google Fonts service. For your reference, please consult their [privacy policy](https://policies.google.com/privacy).
-- GitLab (GitLab B.V.), through their GitLab Pages service. For your reference, please consult their [privacy policy](https://about.gitlab.com/privacy/).
+- GitLab (GitLab B.V. and/or GitLab Inc.), through their GitLab Pages service. For your reference, please consult their [privacy policy](https://about.gitlab.com/privacy/).
 - Prospect One, through their jsdelivr.com service. For your reference, please consult their [privacy policy](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-com).
 
 # Your rights
@@ -49,6 +49,16 @@ This website is operated under Portuguese and EU jurisdictions. As a user of thi
 
 Note that we may request a form of identity verification to fullfil your request.
 
+
+# Children's Privacy
+
+The website does not address anyone under the age of 13 ("child","children").
+
+If you are a parent or guardian and are concerned that a child may have provided us with personal data, please get in touch. Steps will be taken for removal of personal data supplied by children without consent from parents or guardians.
+
+# External links
+
+This website contains links to external sources. We are not responsible for any content provided by those sources and encorage you to consult their respective privacy policies.
 
 # Contact
 
