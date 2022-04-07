@@ -6,7 +6,7 @@ title: Gil Oliveira
 superuser: true
 
 # Role/position/tagline
-role: Bolseiro de Investigação em Bioengenharia de Sistemas
+role: Investigador de Pós-Graduação em Bioengenharia de Sistemas
 
 # Organizations/Affiliations to show in About widget
 organizations:
