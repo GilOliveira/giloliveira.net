@@ -71,6 +71,9 @@ features:
     gravatar: true
     shape: circle
 
+cms:
+  netlify_cms: false
+
 # Extensions
 
 extensions:
