@@ -23,7 +23,7 @@ main:
     url: 'publication'
     weight: 60    
   - name: Blog
-    url: 'https://blog.giloliveira.net'
+    url: 'https://poiar.es'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
