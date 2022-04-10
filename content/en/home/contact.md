@@ -21,7 +21,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: Twitter
-      link: 'https://twitter.com/gildoesbiology'
+      link: 'https://twitter.com/GiltheBiologist'
     - icon: mastodon
       icon_pack: fab
       name: Mastodon
