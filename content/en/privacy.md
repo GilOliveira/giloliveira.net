@@ -34,9 +34,7 @@ We do not track the users that visit the website, nor we store any cookies or an
 In order to provide you with service, we rely on third-party providers. They may collect your IP address or information sent by your browser, depending on their
 privacy policies. The providers we rely on are as follows:
 
-- Google (Google Ireland Limited and/or Google LLC), thorough their Google Fonts service. For your reference, please consult their [privacy policy](https://policies.google.com/privacy).
 - GitLab (GitLab B.V. and/or GitLab Inc.), through their GitLab Pages service. For your reference, please consult their [privacy policy](https://about.gitlab.com/privacy/).
-- Prospect One, through their jsdelivr.com service. For your reference, please consult their [privacy policy](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-com).
 
 # Your rights
 

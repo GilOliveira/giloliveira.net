@@ -34,9 +34,7 @@ Nós não rastreamos os utilizadores que visitam este website, nem armazenamos c
 
 De forma a providenciar os serviços neste website, nós dependemos de prestadores de serviços terceiros. Estes podem recolher e armazenar o seu endereço IP e qualquer informação enviada pelo seu navegador, em conformidade com as respetivas políticas de privacidade. Os prestadores dos quais dependemos são os seguintes:
 
-- Google (Google Ireland Limited e/ou Google LLC), atráves do seu serviço Google Fonts. Para sua referência, por favor consulte a respetiva [política de privacidade](https://policies.google.com/privacy?hl=pt-PT).
 - GitLab (GitLab B.V. e/ou GitLab Inc.), através do seu serviço GitLab Pages. Para sua referência, por favor consulte a respetiva [política de privacidade (em inglês)](https://about.gitlab.com/privacy/).
-- Prospect One, através do seu serviço jsdelivr.com. Para sua referência, por favor consulte a respetiva [política de privacidade (em inglês)](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-com).
 
 # Os seus direitos
 

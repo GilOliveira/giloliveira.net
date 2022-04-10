@@ -68,8 +68,8 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: true
-    shape: circle
+    gravatar: false
+    #shape: circle
 
 cms:
   netlify_cms: false
