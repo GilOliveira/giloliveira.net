@@ -46,18 +46,21 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/MarioGilOliveira
-- icon: ciencia-vitae
-  icon_pack: ai
-  link: https://www.cienciavitae.pt/portal/D019-5596-42E2
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4638-2879
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=IvGHLzkAAAAJ
 - icon: academia
   icon_pack: ai
   link: https://unl-pt.academia.edu/GilOliveira
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gil_Oliveira4
+- icon: ciencia-vitae
+  icon_pack: ai
+  link: https://www.cienciavitae.pt/portal/D019-5596-42E2
 - icon: gitlab
   icon_pack: fab
   link: https://www.gitlab.com/GilOliveira
