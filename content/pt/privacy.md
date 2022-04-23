@@ -14,49 +14,80 @@ comments: false  # Show comments?
 #  image: ""
 ---
 
-Gil Oliveira (doravante "eu"/"nós"/"meu"/"nosso"), um indivíduo, opera o sítio web disponível em giloliveira.net ("website").
+## Introdução
 
-Esta página pertende informá-lo das nossas políticas que concernem o uso de dados pessoais.
+Este sítio Web é operado por Gil Oliveira a partir da República Portuguesa, um estado membro da União Europeia (UE). Como tal, necessita de conformar com a legislação portuguesa e da UE. [Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=pt) (Regulamento Geral sobre a Proteção de Dados - RGPD) and [Lei 58/2018, de 8 de agosto](https://dre.pt/dre/detalhe/lei/58-2019-123815982) regulam os procedimentos relativos à utilização de dados pessoais dos utilizadores deste sítio Web.
 
-Ao utilizar o website, está a consentir o uso de informação em conformidade com esta política.
+Esta Política de Privacidade explicita os dados pessoais que recolhemos do utilizador ao utilizar este sítio Web. A utilização deste sítio Web está sujeita aos termos desta Política de Privacidade
 
-# Coleta e uso de informação pessoal
+## Que dados coletamos?
 
-## Dados pessoais
+Não coletamos nenhum dado pessoal dos utilizadores deste sítio Web.
 
-Nós não coletamos nem armazenamos nenhuma informação pessoal dos visitantes deste website.
+## Como coletamos os seus dados?
 
-## Cookies e rastreamento
+Este sítio Web não utiliza nenhuma tecnologia de rastreamento, como cookies, para rastrear os seus utilizadores.
 
-Nós não rastreamos os utilizadores que visitam este website, nem armazenamos cookies ou nenhuma tecnologia de rastreamento para analisar a sua atividade no website.
+## Como armazenamos os seus dados?
 
-# Prestadores de serviço
+Não armazenamos nenhuns dados pessoais dos utilizadores deste sítio Web.
+
+## Quais são os seus direitos relativos à proteção de dados?
+
+A legislação portuguesa e da UE confere a todos os utilizadores deste sítio web um conjunto de direitos que concernem os seus dados pessoais, independentemente da juridição aplicável aos utilizadores. Nós temos uma obrgação legal de lhe informar desses direitos.
+
+Cada utilizador têm os seguintes direitos:
+
+- **Direito de acesso** – Tem o direito de solicitar cópias dos seus dados pessoais. Note que podemos cobrar uma pequena taxa por este serviço.
+
+- **Direito de retificação** – Tem o direito de requerer a correção de informação que acredite ser incorreta. Tem também o direito de solicitar-nos que completemos a informação que acredite estar incompleta.
+
+- **Direito de eliminação** – Tem o direito de solicitar que nós apaguemos os seus dados pessoais, sujeito a determinadas condições.
+
+- **Direito de restrição de processamento** – Tem o direito de restringir o processamento dos seus dados pessoais, sujeito a determinadas condições.
+
+- **Direito de objeção ao processamento** - Tem o direito de objetar o processamento dos seus dados pessoais, sujeito a determinadas condições.
+
+- **Direito de portabilidade de dados** - Tem o direito a solicitar a transferência de dados que tenhamos sobre si a outra organização, ou diretamente a si, sobre certas condições.
+
+## *Cookies*
+
+*Cookies* são ficheiros de texto transferidos para o seu computador de forma a registar informações técnicas e de comportamento do utilizador.
+
+Para mais informações, visite [allaboutcookies.org](https://allaboutcookies.org).
+
+Não aplicamos *cookies* neste sítio Web.
+
+## Prestadores de serviço
 
 De forma a providenciar os serviços neste website, nós dependemos de prestadores de serviços terceiros. Estes podem recolher e armazenar o seu endereço IP e qualquer informação enviada pelo seu navegador, em conformidade com as respetivas políticas de privacidade. Os prestadores dos quais dependemos são os seguintes:
 
 - GitLab (GitLab B.V. e/ou GitLab Inc.), através do seu serviço GitLab Pages. Para sua referência, por favor consulte a respetiva [política de privacidade (em inglês)](https://about.gitlab.com/privacy/).
 
-# Os seus direitos
-
-O website é operado em jurisdição da República Portuguesa e da União Europeia. Enquanto utilizador deste website, possui uma série direitos conferidos pela legislação aplicável - [Regulamento (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) e a [Lei 58/2019 de 8 de agosto](https://dre.pt/dre/detalhe/lei/58-2019-123815982). Os seus direitos são os seguintes:
-
-- Aceder e receber uma cópia da informação pessoal que armazenamos sobre si.
-- Retificar quaisquer dados pessoas que sejam incorretos.
-- Requerer a deleção dos seus dados pessoais.
-- Obter uma cópia dos seus dados pessoais num formato eletrónico de uso comum, para propósitos de portabilidade dos dados.
-
-Tenha em consideração que podemos requrer que verifique a sua identidade para deferir o seu requerimento.
-
-# Privacidade de crianças
-
-Este website não é dirigido a menores de 13 anos ("criança"/"crianças").
-
-Se é um representante legal e tem motivos para crer que uma criança nos providenciou com os seus dados pessoais, por favor entre em contacto. Serão feitas diligências com vista à remoção de dados pessoas providenciados por crianças sem consentimento dos respetivos representantes legais.
-
-# Ligações externas
+## Políticas de Privacidade de outros sítios Web
 
 O website contém hiperligações para fontes externas. Nós não somos reponsáveis pelo seu conteúdo e encorajamo-lo a consultar as respetivas políticas de privacidade.
 
-# Contacto
+## Alterações à esta Política de Privacidade
+
+Sujeitamos a nossa Política de Privacidade a revisão constante e colocamos atualizações necessárias nesta página Web. Esta Política de Privacidade foi atualizada pela última vez a 23 de abril de 2022 e tem efeitos imediatos.
+
+## Contactos
 
 Se pertende exercer um dos seus direitos relativos ao tratamento dos seus dados pessoais em concordância com a legislação aplicável, ou tem dúvidas ou preocupações acerca desta política de privacidade, por favor contacte-nos por email: [hello@giloliveira.net](mailto:hello@giloliveira.net) ([chaves PGP](https://keybase.io/giloliveira/pgp_keys.asc)).
+
+## Contactos das autoridades competentes
+
+Caso deseja realizar uma reclamação ou sinta que as suas procupações foram respondidas de uma maneira satisfatória, deve colocar a autoridade competente.
+
+**Nome:** CNPD - Comissão Nacional de Proteção de Dados
+
+**Morada:** Av. D. Carlos I, 134, 1º, 1200-651 Lisboa, Portugal
+
+**Telefone:** (+351) 213 928 400
+
+**Fax:** (+351) 213 976 832
+
+**E-mail:** [geral@cnpd.pt](mailto:geral@cnpd.pt)
+
+**Sítio Web:** [www.cnpd.pt](https://www.cnpd.pt)
