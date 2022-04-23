@@ -1,0 +1,16 @@
+image: alpine/edge
+oauth: pages.sr.ht/PAGES:RW
+packages:
+- hut
+- hugo
+environment:
+  site: gpo.srht.site
+tasks:
+- generate: |
+    hugo
+    mv public $site
+- package: |
+    cd $site
+    tar -cvz . > ../site.tar.gz
+- upload: |
+    hut pages publish -d $site site.tar.gz
