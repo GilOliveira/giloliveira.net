@@ -16,12 +16,15 @@ main:
   - name: 'Formação'
     url: '#accomplishments'
     weight: 40
+  - name: Publicações
+    url: 'publication'
+    weight: 50
   - name: Contacto
     url: '#contact'
-    weight: 50
+    weight: 60
   - name: Blogue
     url: 'https://foradabancada.pt'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
