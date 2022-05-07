@@ -16,7 +16,14 @@
 <script>
   function dismissBanner(){
     document.getElementById("banner").style.display = "none";
+    localStorage.setItem("bannerDismissed",1);
   }
+  window.addEventListener("DOMContentLoaded", function(){
+    if (localStorage.getItem("bannerDismissed")) {
+      document.getElementById("banner").style.display = "none";
+    }
+  }
+);
 </script>
 
 <header class="header--fixed">
