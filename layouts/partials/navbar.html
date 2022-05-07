@@ -13,22 +13,39 @@
   {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
 {{ end }}
 
+<script>
+  function dismissBanner(){
+    document.getElementById("banner").style.display = "none";
+  }
+</script>
+
 <header class="header--fixed">
-    <div class="banner">
-        🇺🇦 Ukraine was invaded by Russia, causing an enormous humanitarian crisis. <a href="https://stand-with-ukraine.pp.ua/">See how you can help</a>.
+    <div id="banner">
+      <span id="bannerText"> 🇺🇦 Ukraine was invaded by Russia, causing an enormous humanitarian crisis. <a href="https://stand-with-ukraine.pp.ua/">See how you can help</a>. </span>
+      <span id="dismiss"> <a href="#" onclick="dismissBanner()" id="dismissLink">Dismiss</a> </span>
     </div>
     <style>
-        .banner{
+        #banner{
+            font-size: small;
             background-color: #FFD700;
             color: black;
-            font-size: medium;
             padding-left: 1rem;
-            padding-top: .5rem;
-            padding-bottom: .5rem;
+            padding-right: 1rem;
+            padding-top: .25rem;
+            padding-bottom: .25rem;
         }
-        .banner a {
+        #banner a {
             color: #0057B8;
         }
+
+        #bannerText {
+          margin-right: 60px;
+        }
+
+        #dismiss {
+          position: absolute;
+          right: 20px;
+      }
     </style>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
     <div class="container-xl">
