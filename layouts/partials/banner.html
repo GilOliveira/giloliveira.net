@@ -1,0 +1,40 @@
+<script>
+    function dismissBanner(){
+      document.getElementById("banner").style.display = "none";
+      localStorage.setItem("bannerDismissed",1);
+    }
+    window.addEventListener("DOMContentLoaded", function(){
+      if (localStorage.getItem("bannerDismissed")) {
+        document.getElementById("banner").style.display = "none";
+      }
+    }
+  );
+</script>
+
+<div id="banner">
+    <span id="bannerText"> 🇺🇦 Ukraine was invaded by Russia, causing an enormous humanitarian crisis. <a href="https://stand-with-ukraine.pp.ua/">See how you can help</a>. </span>
+    <span id="dismiss"> <a href="#" onclick="dismissBanner()" id="dismissLink">Dismiss</a> </span>
+  </div>
+  <style>
+      #banner{
+          font-size: small;
+          background-color: #FFD700;
+          color: black;
+          padding-left: 1rem;
+          padding-right: 1rem;
+          padding-top: .25rem;
+          padding-bottom: .25rem;
+      }
+      #banner a {
+          color: #0057B8;
+      }
+
+      #bannerText {
+        margin-right: 60px;
+      }
+
+      #dismiss {
+        position: absolute;
+        right: 20px;
+    }
+  </style>
