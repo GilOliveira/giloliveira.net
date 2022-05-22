@@ -61,11 +61,9 @@ For further information, visit [allaboutcookies.org](https://allaboutcookies.org
 
 We do not employ cookies in this website.
 
-## Service providers
+## Hosting and data location
 
-In order to provide you with service, we rely on third-party providers. They may collect your IP address or information sent by your browser, depending on their privacy policies. The providers we rely on are as follows:
-
-GitLab (GitLab B.V. and/or GitLab Inc.), through their GitLab Pages service. For your reference, please consult their [privacy policy](https://about.gitlab.com/privacy/).
+This website is hosted in Germany, and hosting is provided by [Contabo](https://contabo.com/), all services are provided within the European Union.
 
 ## Privacy policies of other websites
 
