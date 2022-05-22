@@ -58,11 +58,9 @@ Para mais informações, visite [allaboutcookies.org](https://allaboutcookies.or
 
 Não aplicamos *cookies* neste sítio Web.
 
-## Prestadores de serviço
+## Alojamento e localização dos dados
 
-De forma a providenciar os serviços neste website, nós dependemos de prestadores de serviços terceiros. Estes podem recolher e armazenar o seu endereço IP e qualquer informação enviada pelo seu navegador, em conformidade com as respetivas políticas de privacidade. Os prestadores dos quais dependemos são os seguintes:
-
-- GitLab (GitLab B.V. e/ou GitLab Inc.), através do seu serviço GitLab Pages. Para sua referência, por favor consulte a respetiva [política de privacidade (em inglês)](https://about.gitlab.com/privacy/).
+Este website é alojado na Alemanha. O alojamento é providenciado pela [Contabo](https://contabo.com). Todos os serviços são providenciados a prtir da União Europeia.
 
 ## Políticas de Privacidade de outros sítios Web
 
