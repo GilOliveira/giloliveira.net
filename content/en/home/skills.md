@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Python, MATLAB, R, Javascript, HTML, CSS, MySQL, Markdown, LaTeX, Bash/zsh
+- description: Python, MATLAB, R, Javascript, C, HTML, CSS, MySQL, Markdown, LaTeX, Bash/zsh
   icon: file-code
   icon_pack: far
   name: Computer Languages
@@ -24,7 +24,7 @@ feature:
   icon: project-diagram
   icon_pack: fas
   name: Systems Biology
-- description: icrobiological culture, Animal cell culture (HEK293, U2OS), Molecular cloning, PCR, DNA/RNA extraction, Electrophoresis, qPCR (beginner), BSL-2 laboratory practices, Bioinformatics tools
+- description: Microbiological culture, Animal cell culture (HEK293, U2OS), Molecular cloning, PCR, DNA/RNA extraction, Electrophoresis, qPCR (beginner), BSL-2 laboratory practices, Bioinformatics tools
   icon: dna
   icon_pack: fas
   name: Molecular Biology

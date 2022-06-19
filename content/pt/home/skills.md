@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - name: Linguages de computação
-  description: Python, MATLAB, R, Javascript, HTML, CSS, MySQL, Markdown, LaTeX, Bash/zsh
+  description: Python, MATLAB, R, Javascript, C, HTML, CSS, MySQL, Markdown, LaTeX, Bash/zsh
   icon: file-code
   icon_pack: far 
 - name: Biologia de Sistemas
