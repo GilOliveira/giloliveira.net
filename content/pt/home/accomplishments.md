@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.codecademy.com/profiles/gilpoiares/certificates/8c3029c4a6e5894e74da756e3a7c0ae3
+  date_end: 2022-06-19"
+  date_start: "2022-06-01"
+  description: "Curso introdutório de 15 h acerca da linguagem de programação C."
+  organization: Codecademy
+  organization_url: https://www.codecademy.org
+  title: Learn C
+  url: "https://www.codecademy.com/learn/learn-c"
 - certificate_url: https://www.codecademy.com/profiles/gilpoiares/certificates/497d64b859e76f307b65270d130a4603
   date_end: ""
   date_start: "2021-01-01"
@@ -30,7 +38,7 @@ item:
   organization: Codecademy
   organization_url: https://www.codecademy.org
   title: Learn R
-  url: ""
+  url: "https://www.codecademy.com/learn/learn-r"
 - certificate_url: ""
   date_end: ""
   date_start: "2021-01-01"
