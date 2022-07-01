@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc in Biotechnology (ongoing)
+  - course: MSc in Biotechnology
     institution: NOVA University Lisbon
-    year: ""
+    year: 2022
   - course: BSc in Biology (Molecular Biology and Genetics)
     institution: University of Lisbon
     year: 2019
