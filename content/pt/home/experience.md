@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Bolseiro de Investigação
+  - title: Investigador de Mestrado / Bolseiro de Investigação
     company: NOVA School of Science & Technology
     company_url: 'https://fct.unl.pt/en/'
     company_logo: nova-st
