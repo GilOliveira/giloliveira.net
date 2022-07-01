@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Mestrado em Biotechnologia (ongoing)
+  - course: Mestrado em Biotecnologia
     institution: Universidade NOVA de Lisboa
-    year: ""
+    year: 2022
   - course: Licenciatura em Biologia (Biologia Molecular e Genética)
     institution: Universidade de Lisboa
     year: 2019
