@@ -4,6 +4,7 @@ secrets:
 packages:
   - go
   - hugo
+  - rsync
 tasks:
   - build: |
       cd giloliveira.net
