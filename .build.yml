@@ -10,4 +10,5 @@ tasks:
       cd giloliveira.net
       hugo
   - deploy: |
+      ssh-keyscan giloliveira.net >> ~/.ssh/known_hosts
       rsync -rtvzP giloliveira.net/public/ srht@giloliveira.net:~/www/giloliveira.net
