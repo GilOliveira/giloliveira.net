@@ -1,0 +1,26 @@
+/* Copyright 2022, Gil Oliveira */
+/* SPDX-License-Identifier: MIT */
+
+/* giloliveira.net custom CSS */
+
+#banner{
+    font-size: small;
+    background-color: #FFD700;
+    color: black;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+}
+#banner a {
+    color: #0057B8;
+}
+
+#bannerText {
+  margin-right: 60px;
+}
+
+#dismiss {
+  position: absolute;
+  right: 20px;
+}
