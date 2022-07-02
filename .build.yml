@@ -1,16 +1,15 @@
-image: alpine/edge
-oauth: pages.sr.ht/PAGES:RW
-packages:
-- hut
-- hugo
+image: alpine/latest
+secrets:
+  - 06907e6b-98a4-4c14-ac4e-f3561adf7b14
 environment:
-  site: gpo.srht.site
+  - repo: giloliveira.net
+  - host: giloliveira.net
+  - user: srht
+packages:
+  - hugo
 tasks:
-- generate: |
+  - build: |
+    cd $repo
     hugo
-    mv public $site
-- package: |
-    cd $site
-    tar -cvz . > ../site.tar.gz
-- upload: |
-    hut pages publish -d $site site.tar.gz
+  - deploy: |
+    rsync -rtvzP $repo/public/ $user@$host:~/www/giloliveira.net
