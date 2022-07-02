@@ -2,6 +2,9 @@
 
   {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }}
   
+<div class="container">
+  <div class="row">
+    <div class="col">
     {{ if .IsTranslated | and site.Params.footer.show_translations }}
       <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
         <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>{{ i18n "languages" }}:</div>
@@ -37,8 +40,15 @@
       <a href="https://gitlab.com/GilOliveira/giloliveira.net"><i class="fas fa-code"></i> Source code</a> · Based on <a href="https://wowchemy.com">Wowchemy</a>
     </p>
 
-    <a href="https://www.eff.org"><img src="/svg/effmember.svg" style="height: 60px" alt="EFF Member 2022"></a>
-  
+    </div>
+    <div class="col-auto">
+      <a href="https://www.eff.org">
+        <img src="/jpg/eff-member.jpg" style="width: 80px" alt="EFF Member 2022">
+      </a>
+    </div>
+  </div>
+</div>
+
     <!-- <p class="powered-by">
       {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
       {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
