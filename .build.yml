@@ -5,7 +5,7 @@ packages:
   - hugo
 tasks:
   - build: |
-    cd giloliveira.net
-    hugo
+      cd giloliveira.net
+      hugo
   - deploy: |
-    rsync -rtvzP $repo/public/ srht@giloliveira.net:~/www/giloliveira.net
+      rsync -rtvzP giloliveira.net/public/ srht@giloliveira.net:~/www/giloliveira.net
