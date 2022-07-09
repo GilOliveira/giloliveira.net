@@ -15,9 +15,9 @@ This is the source code for my personal website. It is not the actual HTML/CSS t
 
 ## Am I being tracked when browsing your website?
 
-Not by me, analytics are not enabled at this point. I also don't log IPs. Full privacy policy available at [giloliveira.net/privacy](https://giloliveira.net/privacy). The website was also designed not to rely on content from external servers. Server is hosted by [Contabo](https://contabo.com) in Germany, data is stored widthin the European Union.
+Not by me, analytics are not enabled at this point. I also don't log IPs. Full privacy policy available at [giloliveira.net/privacy](https://giloliveira.net/privacy). The website was also designed not to rely on content from external servers. Server is hosted by [Contabo](https://contabo.com) in Germany, data is stored within the European Union.
 
 ## Licences
 
-Code is MIT, content is copyrighted. Check `LICENSE.md`.
+Code is MIT licensed, content is copyrighted. Check `LICENSE.txt`.
 

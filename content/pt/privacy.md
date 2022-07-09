@@ -16,9 +16,13 @@ comments: false  # Show comments?
 
 ## Introdução
 
-Este sítio Web é operado por Gil Oliveira a partir da República Portuguesa, um estado membro da União Europeia (UE). Como tal, necessita de conformar com a legislação portuguesa e da UE. [Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=pt) (Regulamento Geral sobre a Proteção de Dados - RGPD) and [Lei 58/2018, de 8 de agosto](https://dre.pt/dre/detalhe/lei/58-2019-123815982) regulam os procedimentos relativos à utilização de dados pessoais dos utilizadores deste sítio Web.
+Este sítio Web é operado por Gil Oliveira a partir da República Portuguesa, um estado membro da União Europeia (UE). Como tal, necessita de conformar com a legislação portuguesa e da UE. 
 
 Esta Política de Privacidade explicita os dados pessoais que recolhemos do utilizador ao utilizar este sítio Web. A utilização deste sítio Web está sujeita aos termos desta Política de Privacidade
+
+## Legislação aplicável
+
+O [Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=pt) (Regulamento Geral sobre a Proteção de Dados - RGPD) e o [Lei 58/2018, de 8 de agosto](https://dre.pt/dre/detalhe/lei/58-2019-123815982) regulam os procedimentos relativos à utilização de dados pessoais dos utilizadores deste sítio Web.
 
 ## Que dados coletamos?
 
@@ -68,7 +72,7 @@ O website contém hiperligações para fontes externas. Nós não somos reponsá
 
 ## Alterações à esta Política de Privacidade
 
-Sujeitamos a nossa Política de Privacidade a revisão constante e colocamos atualizações necessárias nesta página Web. Esta Política de Privacidade foi atualizada pela última vez a 23 de abril de 2022 e tem efeitos imediatos.
+Sujeitamos a nossa Política de Privacidade a revisão constante e colocamos atualizações necessárias nesta página Web. Esta Política de Privacidade foi atualizada pela última vez a 9 de julho de 2022 e tem efeitos imediatos.
 
 ## Contactos
 

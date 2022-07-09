@@ -16,9 +16,13 @@ comments: false  # Show comments?
 
 ## Introduction
 
-This website is operated by Gil Oliveira from the Portuguese Republic, a member state of the European Union (EU). As such, it needs to comply with Portuguese and EU law. [Regulation (EU) 2016/679 of the European Parliament and of the Council](https://eur-lex.europa.eu/eli/reg/2016/679/oj) (General Data Protection Regulation - GDPR) and [Law 58/2018, of the 8 of August](https://dre.pt/dre/detalhe/lei/58-2019-123815982) regulate the handling of personal data of this websites' users.
+This website is operated by Gil Oliveira from the Portuguese Republic. 
 
 This Privacy Policy explains the personal data we collect from you when you use this website. By using this website, you are subject to the terms of this privacy policy.
+
+## Applicable law
+
+[Regulation (EU) 2016/679 of the European Parliament and of the Council](https://eur-lex.europa.eu/eli/reg/2016/679/oj) (General Data Protection Regulation - GDPR) and [Law 58/2018, of the 8 of August](https://dre.pt/dre/detalhe/lei/58-2019-123815982) regulate the handling of personal data of this websites' users.
 
 ## What data do we collect?
 
@@ -71,7 +75,7 @@ The website contains links to other websites. Our privacy policy applies only to
 
 ## Chnages to our privacy policy
 
-We keep our privacy policy under regular review and place any updates on this web page. This privacy policy was last updated on 23 April 2022, and is effective immediately.
+We keep our privacy policy under regular review and place any updates on this web page. This privacy policy was last updated on July 7th, 2022, and is effective immediately.
 
 ## How to contact us
 
